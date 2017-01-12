@@ -1,2 +1,2 @@
 # Calculator
-Simple GUI calculator
+Simple Java Swing GUI calculator. Personal practice.
